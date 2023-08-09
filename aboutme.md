@@ -4,7 +4,7 @@ title: About us
 subtitle: We solve problems
 ---
 
-Brandon Gilbert
+## Brandon Gilbert
 
 - 10 Years of Cyber Security Experience
 - 15 Years of IT Experience
@@ -20,10 +20,5 @@ Brandon Gilbert
   - Prior Military Service
 
 
-### My story
 
-
-
-
-
-Collin Caves
+## Collin Caves
