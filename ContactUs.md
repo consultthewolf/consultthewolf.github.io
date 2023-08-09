@@ -1,4 +1,4 @@
-## Inquiries
+## Contact Us
 inquiries@consultthewolf.com 
 
 ## Brandon
