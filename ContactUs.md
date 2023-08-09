@@ -1,7 +1,11 @@
-##Inquiries
-inquiries@consultthewolf.com
+## Inquiries
+inquiries@consultthewolf.com 
 
-##Brandon
+## Brandon
 brandon@consultthewolf.com
-##Collin
+
+## Collin
 collin@consultthewolf.com
+
+
+### Contact Us Form: Coming Soon
