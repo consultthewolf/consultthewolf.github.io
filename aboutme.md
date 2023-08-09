@@ -19,6 +19,7 @@ subtitle: We solve problems
   - Security +
   - Prior Military Service
 
+Contact Me: brandon@consultthewolf.com
 
 
 ## Collin Caves
