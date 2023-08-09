@@ -1,1 +1,7 @@
-[Contact Us](mailto:brandon@consultthewolf.com)
+##Inquiries
+inquiries@consultthewolf.com
+
+##Brandon
+brandon@consultthewolf.com
+##Collin
+collin@consultthewolf.com
