@@ -22,9 +22,10 @@ author: Collin & Brandon
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Contact Us: "Contact Us"
+    - Sample Deliverable: "/assets/pdf/sample.pdf"
+    - SecDSM: "https://secdsm.org"
+    - Blogs: "blogs"
+  Contact Us: "ContactUs"
  # Author's home: "https://deanattali.com"
 
 ################
