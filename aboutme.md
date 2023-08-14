@@ -27,14 +27,14 @@ Contact Me: brandon@consultthewolf.com
 -  8 years of Cyber Security Experience
 -  13 years of IT Experience
 -  Specialties
-  - Network Security
-  - Detection Engineering
-  - Malware Analysis
-  - Email Security
-  - OSINT/Attack Surface Analysis
-  - Security Engineering
-  - Incident Response
-  - Python Automation
+    - Network Security
+    - Detection Engineering
+    - OSINT/Attack Surface Analysis
+    - Security Engineering
+    - Email Security
+    - Incident Response
+    - Python Automation
+    - Network Security
 - Credentials
   - CCNA
 
