@@ -19,23 +19,22 @@ subtitle: We solve problems
   - Security +
   - Prior Military Service
 
-Contact Me: brandon@consultthewolf.com
+**Contact Me: brandon@consultthewolf.com**
 
 
 ## Collin Caves
 
 -  8 years of Cyber Security Experience
--  13 years of IT Experience
--  Specialties:
-  - Network Security
+-  13 years of IT Experience 
+- Specialties
   - Detection Engineering
+  - Network Security
   - OSINT/Attack Surface Analysis
   - Security Engineering
   - Email Security
   - Incident Response
   - Scripting Automation
-  - Network Security
 - Credentials
   - CCNA
 
-Contact Me: collin@consultthewolf.com
+**Contact Me: collin@consultthewolf.com**
