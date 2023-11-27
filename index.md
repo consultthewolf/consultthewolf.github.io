@@ -11,6 +11,7 @@ subtitle: Professional cybersecurity consultation from experts in the industry.
 
 
 **We currently offer the following services and are looking to expand further as we develop new ideas**
-* Attack Surface Management Review
+* Attack Surface Review
 * Virtual Ciso Services
 * Security Awareness Training Deployment and Guidance
+* Penetration Testing
