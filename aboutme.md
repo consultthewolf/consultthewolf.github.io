@@ -24,8 +24,8 @@ subtitle: We solve problems
 
 ## Collin Caves
 
--  8 years of Cyber Security Experience
--  13 years of IT Experience 
+-  7 years of Cyber Security Experience
+-  12 years of IT Experience 
 - Specialties
   - Detection Engineering
   - Network Security
@@ -34,7 +34,5 @@ subtitle: We solve problems
   - Email Security
   - Incident Response
   - Scripting Automation
-- Credentials
-  - CCNA
 
 **Contact Me: collin@consultthewolf.com**
