@@ -19,7 +19,7 @@ subtitle: We solve problems
   - Security +
   - Prior Military Service
 
-**Contact Me: brandon@consultthewolf.com**
+**Contact Me: [brandon@consultthewolf.com](mailto:brandon@consultthewolf.com?subject=Consult%20The%20Wolf%20Business%20Inquiry)**
 
 
 ## Collin Caves
@@ -35,4 +35,4 @@ subtitle: We solve problems
   - Incident Response
   - Scripting Automation
 
-**Contact Me: collin@consultthewolf.com**
+**Contact Me: [collin@consultthewolf.com](mailto:collin@consultthewolf.com?subject=Consult%20The%20Wolf%20Business%20Inquiry)**
