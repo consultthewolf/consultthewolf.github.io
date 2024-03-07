@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consult The Wolf
-subtitle: Professional cybersecurity consultation from experts in the industry.
+subtitle: Professional cyber security consultation from experts in the industry.
 ---
 
 
@@ -16,4 +16,4 @@ subtitle: Professional cybersecurity consultation from experts in the industry.
 * Security Awareness Training Deployment and Guidance
 * Penetration Testing
 * Guidance on Cyber Insurance
-* Security Cost Review
+* Cyber Security Cost Review
