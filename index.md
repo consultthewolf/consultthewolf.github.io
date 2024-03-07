@@ -15,5 +15,6 @@ subtitle: Professional cyber security consultation from experts in the industry.
 * Virtual Ciso Services
 * Security Awareness Training Deployment and Guidance
 * Penetration Testing
+* Vulnerability Scanning
 * Guidance on Cyber Insurance
 * Cyber Security Cost Review
